@@ -14,7 +14,7 @@ pipeline {
         DEV_PROJECT = "jduenas-books-dev"
         STAGE_PROJECT = "jduenas-books-stage"
         APP_GIT_URL = "https://github.com/jorgeoxi/books-jenkins-demo"
-        NEXUS_SERVER = "http://ocp-cp-1.cloudapps.ocp.lan/repository/nodejs"
+        NEXUS_SERVER = "http://ocp-cp-1.apps.cloudapps.ocp.lan/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
